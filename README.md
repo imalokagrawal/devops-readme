@@ -1,34 +1,22 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/logo.png" alt="Markdownify" width="200"></a>
+  <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/logo.png" alt="Markdownify" width="200"></a>
+  <br>
+  <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/try-button.png" alt="Markdownify" width="200"></a>
   <br>
   Azure DevOps Project
   <br>
 </h1>
 
-<h4 align="center">Official ASP.NET Core sample web application for Azure DevOps Project</h4>
-
-<p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/amitmerchant1990">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
-</p>
+<h3 align="center">Official ASP.NET Core sample web application for Azure DevOps Project</h3>
 
 <p align="center">
   <a href="#what-is-devops-project">What is DevOps Project</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#what's-next">What's next</a> •
   <a href="#license">License</a> •
-  <a href="#contributing">Contributing</a> •
+  <a href="#contributing">Contributing</a>
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/azure-dev-ops.gif)
