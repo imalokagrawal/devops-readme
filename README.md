@@ -3,11 +3,11 @@
   <br>
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/img/markdownify.png" alt="Markdownify" width="200"></a>
   <br>
-  Markdownify
+  Azure DevOps Project
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">Official ASP.NET Core sample web application for Azure DevOps Project</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
@@ -24,12 +24,11 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#what-is-devops-project">What is DevOps Project</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#what's-next">What's next</a> •
+  <a href="#license">License</a> •
+  <a href="#contributing">Contributing</a> •
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/img/markdownify.gif)
