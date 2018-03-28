@@ -2,11 +2,11 @@
 <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/logo-new.png"></a>
 </h1>
 
+<h4 align="center">
 <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/try-button.png" width="150"></a>
 <br>
 <br>
 
-<h4 align="center">
 Official ASP.NET Core sample web application for Azure DevOps Project
 </h4>
 
