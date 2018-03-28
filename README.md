@@ -1,12 +1,11 @@
 <h1 align="center">
-  <br>
   <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/logo-new.png" alt="Markdownify" width="500"></a>
   <br>
   <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/try-button.png" alt="Markdownify" width="150"></a>
   <br>
 </h1>
 
-<h4 align="center">Official ASP.NET Core sample web application for Azure DevOps Project</h4>
+<h3 align="center">Official ASP.NET Core sample web application for Azure DevOps Project</h3>
 
 <p align="center">
   <a href="#what-is-devops-project">What is DevOps Project</a> •
@@ -33,7 +32,7 @@ Key benefits of a DevOps Project:
 
 ## How To Use
 Getting started is super simple here. Just few clicks and your CI/CD pipeline is ready for you in minutes.
-*Go to [New DevOps Project page on Azure Portal ](https://portal.azure.com/#create/Microsoft.AzureProject)
+Go to [New DevOps Project page on Azure Portal ](https://portal.azure.com/#create/Microsoft.AzureProject)
 * Step 1 - Select the language you are want to target like .NET, PHP, Python, Java, Node, Go or Ruby
 * Step 2 - Select your favourite framework for selected language. DevOps project supports variety of frameworks today
 * Step 3 - Select where you want to deploy your new application. For example, you can select Azure WebApp, Virtual Machines, Containers, Service Fabric etc.
