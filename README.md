@@ -1,15 +1,14 @@
-
 <h1 align="center">
   <br>
   <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/logo.png" alt="Markdownify" width="200"></a>
+  
   <br>
-  Azure DevOps Project
+  <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/try-button.png" alt="Markdownify" width="150"></a>
   <br>
-  <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/try-button.png" alt="Markdownify"></a>
   <br>
 </h1>
 
-<h3 align="center">Official ASP.NET Core sample web application for Azure DevOps Project</h3>
+<h4 align="center">Official ASP.NET Core sample web application for Azure DevOps Project</h4>
 
 <p align="center">
   <a href="#what-is-devops-project">What is DevOps Project</a> •
@@ -19,9 +18,9 @@
   <a href="#contributing">Contributing</a>
 </p>
 
-<p align="center">
+
 ![screenshot](https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/azure-dev-ops.gif)
-</p>
+
 
 ## What is DevOps Project
 
