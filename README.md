@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/logo.png" alt="Markdownify" width="200"></a>
+  <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/logo-new.png" alt="Markdownify" width="200"></a>
   
   <br>
   <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/try-button.png" alt="Markdownify" width="150"></a>
