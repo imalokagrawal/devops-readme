@@ -1,12 +1,13 @@
 <h1 align="center">
-  <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/logo-new.png" alt="Markdownify" width="500"></a>
+  <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/logo-new.png" width="500"></a>
 </h1>
 
-<h3 align="center">
+<h4 align="center">
 Official ASP.NET Core sample web application for Azure DevOps Project
 <br>
-<a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/try-button.png" alt="Markdownify" width="150"></a>
-</h3>
+<br>
+<a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/try-button.png" width="150"></a>
+</h4>
 
 <p align="center">
   <a href="#what-is-devops-project">What is DevOps Project</a> •
