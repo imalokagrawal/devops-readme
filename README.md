@@ -1,12 +1,12 @@
-<h1 align="center">
-  <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/logo-new.png" width="500"></a>
+<h1>
+<a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/logo-new.png" width="500"></a>
 </h1>
 
-<h4 align="center">
-Official ASP.NET Core sample web application for Azure DevOps Project
-<br>
-<br>
+<h4>
 <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/try-button.png" width="150"></a>
+<br>
+<br>
+Official ASP.NET Core sample web application for Azure DevOps Project
 </h4>
 
 <p align="center">
@@ -42,7 +42,7 @@ Go to [New DevOps Project page on Azure Portal ](https://portal.azure.com/#creat
 
 
 ## What next
-Once your pipeline is ready and your application is up and running, you are all set. You can now modify the sample code and add your changes or simply add more environment to take your application from Development environment to production. Follow DevOps project documentation to know more.
+Once your DevOps Project is ready and your application is up and running, you are all set. You can now clone the code repository locally and modify the sample code or simply add more environment to take your application from Development environment to production. Follow DevOps project documentation to know more.
 
 ## License
 
