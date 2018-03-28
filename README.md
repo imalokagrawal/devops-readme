@@ -1,9 +1,9 @@
-<h1 align="center">
+<h2 align="center">
   <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/logo-new.png" alt="Markdownify" width="500"></a>
   <br>
   <a href="https://portal.azure.com/#create/Microsoft.AzureProject"><img src="https://raw.githubusercontent.com/imalokagrawal/devops-readme/master/images/try-button.png" alt="Markdownify" width="150"></a>
   <br>
-</h1>
+</h2>
 
 <h3 align="center">Official ASP.NET Core sample web application for Azure DevOps Project</h3>
 
