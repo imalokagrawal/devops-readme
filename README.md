@@ -25,19 +25,19 @@
 Azure DevOps Project helps you launch an app on an Azure App Service of your choice in a few quick steps and set you up with everything you need for developing, deploying, and monitoring your app. Creating a DevOps Project provisions Azure resources and comes with a Git code repository, Application Insights integration and a continuous delivery pipeline setup to deploy to Azure. The DevOps Project dashboard lets you monitor code commits, builds and, deployments, from a single view in the Azure portal.
 
 Key benefits of a DevOps Project:
-• Get up and running with a new app and a full DevOps pipeline in just a few minutes
-• Support for a wide range of popular frameworks such as.NET, Java, PHP, Node, and Python
-• Start fresh or bring your own application from GitHub
-• Built-in Application Insights integration for instant analytics and actionable insights
-• Cloud-powered CI/CD using Visual Studio Team Services (VSTS)
+* Get up and running with a new app and a full DevOps pipeline in just a few minutes
+* Support for a wide range of popular frameworks such as.NET, Java, PHP, Node, and Python
+* Start fresh or bring your own application from GitHub
+* Built-in Application Insights integration for instant analytics and actionable insights
+* Cloud-powered CI/CD using Visual Studio Team Services (VSTS)
 
 ## How To Use
 Getting started is super simple here. Just few clicks and your CI/CD pipeline is ready for you in minutes.
-Go to [New DevOps Project page on Azure Portal ](https://portal.azure.com/#create/Microsoft.AzureProject)
-Step 1 - Select the language you are want to target like .NET, PHP, Python, Java, Node, Go or Ruby
-Step 2 - Select your favourite framework for selected language. DevOps project supports variety of frameworks today
-Step 3 - Select where you want to deploy your new application. For example, you can select Azure WebApp, Virtual Machines, Containers, Service Fabric etc.
-Step 4 - Just provide your VSTS account name. If you dont already have one, you can create a new one here as well.
+*Go to [New DevOps Project page on Azure Portal ](https://portal.azure.com/#create/Microsoft.AzureProject)
+* Step 1 - Select the language you are want to target like .NET, PHP, Python, Java, Node, Go or Ruby
+* Step 2 - Select your favourite framework for selected language. DevOps project supports variety of frameworks today
+* Step 3 - Select where you want to deploy your new application. For example, you can select Azure WebApp, Virtual Machines, Containers, Service Fabric etc.
+* Step 4 - Just provide your VSTS account name. If you dont already have one, you can create a new one here as well.
 
 
 ## What next
