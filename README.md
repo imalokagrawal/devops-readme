@@ -42,12 +42,11 @@ Go to [New DevOps Project page on Azure Portal ](https://portal.azure.com/#creat
 * Step 3 - Select where you want to deploy your new application. For example, you can select Azure WebApp, Virtual Machines, Containers, Service Fabric etc.
 * Step 4 - Just provide your VSTS account name. If you dont already have one, you can create a new one here as well.
 
+## Documentation
+Go to [Azure DevOps Project documentation ](https://docs.microsoft.com/en-us/azure/devops-project/) 
 
 ## What next
 Once your DevOps Project is ready and your application is up and running, you are all set. You can now clone the code repository locally and modify the sample code or simply add more environment to take your application from Development environment to production. Follow DevOps project documentation to know more.
-
-## Documentation
-Go to [Azure DevOps Project documentation ](https://docs.microsoft.com/en-us/azure/devops-project/) 
 
 ## License
 
