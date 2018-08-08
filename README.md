@@ -13,7 +13,7 @@ Official ASP.NET Core sample web application for Azure DevOps Project
 <p align="center">
   <a href="#what-is-devops-project">What is DevOps Project</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#">Documentation</a> •
+  <a href="#documentation">Documentation</a> •
   <a href="#what-next">What next</a> •
   <a href="#license">License</a> •
   <a href="#contributing">Contributing</a>
@@ -45,6 +45,9 @@ Go to [New DevOps Project page on Azure Portal ](https://portal.azure.com/#creat
 
 ## What next
 Once your DevOps Project is ready and your application is up and running, you are all set. You can now clone the code repository locally and modify the sample code or simply add more environment to take your application from Development environment to production. Follow DevOps project documentation to know more.
+
+## Documentation
+Go to [Azure DevOps Project documentation ](https://docs.microsoft.com/en-us/azure/devops-project/) 
 
 ## License
 
